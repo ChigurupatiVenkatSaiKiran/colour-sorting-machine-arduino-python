@@ -1,0 +1,6 @@
+Arduino Uno
+USB Camera
+DC Motors
+Motor Driver Module
+Conveyor Belt
+Power Supply Unit
